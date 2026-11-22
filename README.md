@@ -6,6 +6,8 @@
 
 The repository has the credit-assignment module, the simulator, the training code for GeoMACA and for the QMIX and COMA baselines, a fixed Heuristic government, the evaluation that produces the tables and the figure of the chapter, and the Level-Based Foraging experiments.
 
+This repository was prepared after the thesis was examined, as part of its corrections, using an AI coding assistant: the research code behind Chapter 5 was cleaned up, clarified and reorganised into this package, and the commands that reproduce the tables, the attention analysis and the tests were added. The checkpoints are those of the original training runs.
+
 If you use this code, please cite the thesis (see [Citation](#citation)).
 
 ## What is where
