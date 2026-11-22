@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the thesis given under
+  preferred-citation.
+type: software
+title: "chapter5_geomaca: GeoMACA, CityBuilder and Level-Based Foraging experiments"
+abstract: >-
+  The experiments of Chapter 5 of the thesis: GeoMACA (Geographic Multi-Agent
+  Credit Assignment), the CityBuilder simulator with its government agents and
+  the Spatial Developer CNN, the Heuristic, QMIX and COMA baselines, the
+  Level-Based Foraging experiments, and the evaluation and analysis code that
+  produces the chapter's tables and figure.
+authors:
+  - family-names: Pelcner
+    given-names: Lukasz
+license: MIT
+keywords:
+  - multi-agent reinforcement learning
+  - credit assignment
+  - urban planning
+repository-code: "https://github.com/FamishedHound/geomaca-citybuilder"
+preferred-citation:
+  type: thesis
+  title: "Multi-Level Agent-Based Land Use Decision-Making Using Multi-Agent Reinforcement Learning"
+  authors:
+    - family-names: Pelcner
+      given-names: Lukasz
+  thesis-type: "PhD thesis"
+  institution:
+    name: "Lancaster University"
+  year: 2026
+  section: "Chapter 5 (GeoMACA)"

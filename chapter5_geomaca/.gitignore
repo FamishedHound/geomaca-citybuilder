@@ -1,0 +1,9 @@
+# Scoped to chapter5_geomaca.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Outputs of the commands in README.md (evaluations, tables, figures, runs).
+results/
+runs/

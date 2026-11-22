@@ -1,0 +1,618 @@
+{
+  "seeds": [
+    42,
+    123,
+    456,
+    789,
+    1024,
+    1337,
+    2048,
+    3141,
+    4096,
+    5555
+  ],
+  "windows": {
+    "early": [
+      5000,
+      10000
+    ],
+    "late": [
+      40000,
+      50000
+    ]
+  },
+  "summary": {
+    "early": {
+      "agent_entropy": {
+        "mean": 0.9004363028033302,
+        "n": 10,
+        "se": 0.0021279551822849596,
+        "uniform": 1.0,
+        "t": -46.78843709939427,
+        "p": 4.659449414402213e-12
+      },
+      "agent_top_chance": {
+        "mean": 0.33333333333333337,
+        "n": 10,
+        "se": 2.266233259184197e-17
+      },
+      "agent_top_match": {
+        "mean": 0.3299066610399598,
+        "n": 10,
+        "se": 0.01836336719530572,
+        "uniform": 0.33333333333333337,
+        "t": -0.18660370164843362,
+        "p": 0.8561098675362405
+      },
+      "credit_food_share": {
+        "mean": 0.10625507107560106,
+        "n": 10,
+        "se": 0.0027248622707228077,
+        "uniform": 0.09832827628577576,
+        "t": 3.4654547741343538,
+        "p": 0.007099462878825068
+      },
+      "credit_food_uniform": {
+        "mean": 0.09832827628577576,
+        "n": 10,
+        "se": 0.001841347884878571
+      },
+      "geo_entropy": {
+        "mean": 0.9868959912782067,
+        "n": 10,
+        "se": 0.002309013774349591,
+        "uniform": 1.0,
+        "t": -5.675153984512003,
+        "p": 0.0003037293083576824
+      },
+      "geo_food_share": {
+        "mean": 0.17288208767272878,
+        "n": 10,
+        "se": 0.006066282773468918,
+        "uniform": 0.16802582682498737,
+        "t": 0.9856875241774985,
+        "p": 0.3500422322736044
+      },
+      "geo_food_uniform": {
+        "mean": 0.16802582682498737,
+        "n": 10,
+        "se": 0.0022913582478282565
+      },
+      "geo_rho_agent": {
+        "mean": 0.03753850116952227,
+        "n": 10,
+        "se": 0.11458930705841072,
+        "uniform": 0.0,
+        "t": 0.32759165870849893,
+        "p": 0.7507121649418016
+      },
+      "geo_rho_food": {
+        "mean": 0.3777964311151627,
+        "n": 10,
+        "se": 0.10005025917731487,
+        "uniform": 0.0,
+        "t": 3.776066491198288,
+        "p": 0.004375413009511225
+      },
+      "temp_entropy": {
+        "mean": 0.9954274412880249,
+        "n": 10,
+        "se": 0.000235318930763825,
+        "uniform": 1.0,
+        "t": -19.431325380975448,
+        "p": 1.1708198325272538e-08
+      },
+      "temp_food_share": {
+        "mean": 0.10714933688508958,
+        "n": 10,
+        "se": 0.0021867601839469955,
+        "uniform": 0.09832827628577576,
+        "t": 12.793998950714819,
+        "p": 4.4533088790161566e-07
+      },
+      "temp_food_uniform": {
+        "mean": 0.09832827628577576,
+        "n": 10,
+        "se": 0.001841347884878571
+      }
+    },
+    "late": {
+      "agent_entropy": {
+        "mean": 0.8897364613938572,
+        "n": 10,
+        "se": 0.0016813770877679862,
+        "uniform": 1.0,
+        "t": -65.57930366026136,
+        "p": 2.2503777361935288e-13
+      },
+      "agent_top_chance": {
+        "mean": 0.33333333333333326,
+        "n": 10,
+        "se": 2.109748348428064e-17
+      },
+      "agent_top_match": {
+        "mean": 0.3520325941729372,
+        "n": 10,
+        "se": 0.019137911456361054,
+        "uniform": 0.33333333333333326,
+        "t": 0.9770794938749011,
+        "p": 0.3540605283568803
+      },
+      "credit_food_share": {
+        "mean": 0.04651540133676728,
+        "n": 10,
+        "se": 0.0009664336100888477,
+        "uniform": 0.04797083430970673,
+        "t": -1.8160966119486563,
+        "p": 0.10273726663944774
+      },
+      "credit_food_uniform": {
+        "mean": 0.04797083430970673,
+        "n": 10,
+        "se": 0.0009913682409499016
+      },
+      "geo_entropy": {
+        "mean": 0.9848714755528484,
+        "n": 10,
+        "se": 0.0021640500304683443,
+        "uniform": 1.0,
+        "t": -6.990838582358301,
+        "p": 6.389058064399294e-05
+      },
+      "geo_food_share": {
+        "mean": 0.1291304560170614,
+        "n": 10,
+        "se": 0.004099575143284833,
+        "uniform": 0.12937326988023248,
+        "t": -0.07366995739895311,
+        "p": 0.9428843689550541
+      },
+      "geo_food_uniform": {
+        "mean": 0.12937326988023248,
+        "n": 10,
+        "se": 0.0019305296087209478
+      },
+      "geo_rho_agent": {
+        "mean": 0.06940246859930803,
+        "n": 10,
+        "se": 0.10046316600533245,
+        "uniform": 0.0,
+        "t": 0.690825019347133,
+        "p": 0.507099941566836
+      },
+      "geo_rho_food": {
+        "mean": 0.46869768949916935,
+        "n": 10,
+        "se": 0.08379335437551026,
+        "uniform": 0.0,
+        "t": 5.593494770465384,
+        "p": 0.00033706900152211865
+      },
+      "temp_entropy": {
+        "mean": 0.9963891198334787,
+        "n": 10,
+        "se": 0.00010648146971789751,
+        "uniform": 1.0,
+        "t": -33.91087835364813,
+        "p": 8.317023589766372e-11
+      },
+      "temp_food_share": {
+        "mean": 0.04883502508184053,
+        "n": 10,
+        "se": 0.0011259236725002619,
+        "uniform": 0.04797083430970673,
+        "t": 4.040603325139036,
+        "p": 0.002925944847214257
+      },
+      "temp_food_uniform": {
+        "mean": 0.04797083430970673,
+        "n": 10,
+        "se": 0.0009913682409499016
+      }
+    }
+  },
+  "per_seed": {
+    "1024": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9829017695238252,
+        "temp_entropy": 0.9949805533760019,
+        "agent_entropy": 0.8994117255781964,
+        "geo_rho_food": 0.6754159239453358,
+        "geo_rho_agent": 0.06241830065359477,
+        "temp_food_share": 0.11039332352941177,
+        "temp_food_uniform": 0.10060664437202133,
+        "geo_food_share": 0.17144519411764708,
+        "geo_food_uniform": 0.1698529411764706,
+        "credit_food_share": 0.11708640421018,
+        "credit_food_uniform": 0.10060664437202133,
+        "agent_top_match": 0.4233576642335766,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9827304379127869,
+        "temp_entropy": 0.9968718393428192,
+        "agent_entropy": 0.88790509095684,
+        "geo_rho_food": 0.6800876411170529,
+        "geo_rho_agent": 0.10903149138443255,
+        "temp_food_share": 0.04753257565789473,
+        "temp_food_uniform": 0.04711432835668692,
+        "geo_food_share": 0.12094989144736844,
+        "geo_food_uniform": 0.12890625,
+        "credit_food_share": 0.04647305644714115,
+        "credit_food_uniform": 0.04711432835668692,
+        "agent_top_match": 0.3021276595744681,
+        "agent_top_chance": 0.3333333333333333
+      }
+    },
+    "123": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9972848786114747,
+        "temp_entropy": 0.9963998495679215,
+        "agent_entropy": 0.9004166145876963,
+        "geo_rho_food": -0.0026911764705882346,
+        "geo_rho_agent": -0.43441176470588233,
+        "temp_food_share": 0.09455108387096775,
+        "temp_food_uniform": 0.08523508375874364,
+        "geo_food_share": 0.14933345806451614,
+        "geo_food_uniform": 0.16008064516129034,
+        "credit_food_share": 0.09454677296131869,
+        "credit_food_uniform": 0.08523508375874364,
+        "agent_top_match": 0.34108527131782945,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9825953708196647,
+        "temp_entropy": 0.9967201537482059,
+        "agent_entropy": 0.887524157778206,
+        "geo_rho_food": 0.6934458047178262,
+        "geo_rho_agent": 0.13291280979396836,
+        "temp_food_share": 0.04489246666666667,
+        "temp_food_uniform": 0.045293556560919324,
+        "geo_food_share": 0.11381946984126984,
+        "geo_food_uniform": 0.12003968253968254,
+        "credit_food_share": 0.04301027798453219,
+        "credit_food_uniform": 0.045293556560919324,
+        "agent_top_match": 0.4,
+        "agent_top_chance": 0.33333333333333326
+      }
+    },
+    "1337": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9828756179225318,
+        "temp_entropy": 0.9959830196928245,
+        "agent_entropy": 0.8950142224271562,
+        "geo_rho_food": 0.6625410570319499,
+        "geo_rho_agent": 0.07043893699611824,
+        "temp_food_share": 0.09852816184971099,
+        "temp_food_uniform": 0.09252805831139664,
+        "geo_food_share": 0.1782459653179191,
+        "geo_food_uniform": 0.17810693641618497,
+        "credit_food_share": 0.1015356990678336,
+        "credit_food_uniform": 0.09252805831139664,
+        "agent_top_match": 0.2733333333333333,
+        "agent_top_chance": 0.33333333333333326
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9823006795533604,
+        "temp_entropy": 0.9961410363106765,
+        "agent_entropy": 0.8875442136831514,
+        "geo_rho_food": 0.6621732026143791,
+        "geo_rho_agent": 0.07154634581105168,
+        "temp_food_share": 0.04777134969325154,
+        "temp_food_uniform": 0.04665926743813619,
+        "geo_food_share": 0.12206007975460123,
+        "geo_food_uniform": 0.12787576687116564,
+        "credit_food_share": 0.04680423334153904,
+        "credit_food_uniform": 0.04665926743813619,
+        "agent_top_match": 0.3193916349809886,
+        "agent_top_chance": 0.33333333333333326
+      }
+    },
+    "2048": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9821115597342339,
+        "temp_entropy": 0.9959282375265098,
+        "agent_entropy": 0.9048909666653009,
+        "geo_rho_food": 0.3881613952113509,
+        "geo_rho_agent": 0.4262341117351463,
+        "temp_food_share": 0.10625662576687116,
+        "temp_food_uniform": 0.10077152976344522,
+        "geo_food_share": 0.1915399447852761,
+        "geo_food_uniform": 0.16679447852760737,
+        "credit_food_share": 0.09925896840222427,
+        "credit_food_uniform": 0.10077152976344522,
+        "agent_top_match": 0.37410071942446044,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9811131462912054,
+        "temp_entropy": 0.9963102887099811,
+        "agent_entropy": 0.8836753184576096,
+        "geo_rho_food": 0.4078904150492684,
+        "geo_rho_agent": 0.3386309346073455,
+        "temp_food_share": 0.05248684638554217,
+        "temp_food_uniform": 0.050991359233458426,
+        "geo_food_share": 0.13628026506024096,
+        "geo_food_uniform": 0.13064759036144577,
+        "credit_food_share": 0.04576250419124359,
+        "credit_food_uniform": 0.050991359233458426,
+        "agent_top_match": 0.40225563909774437,
+        "agent_top_chance": 0.3333333333333333
+      }
+    },
+    "3141": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9972405177494028,
+        "temp_entropy": 0.9937249644828006,
+        "agent_entropy": 0.8950341161771618,
+        "geo_rho_food": -0.05352941176470588,
+        "geo_rho_agent": -0.4870294117647059,
+        "temp_food_share": 0.11186633333333335,
+        "temp_food_uniform": 0.10229811626753609,
+        "geo_food_share": 0.14513272777777778,
+        "geo_food_uniform": 0.15555555555555556,
+        "credit_food_share": 0.11181979801846735,
+        "credit_food_uniform": 0.10229811626753609,
+        "agent_top_match": 0.3333333333333333,
+        "agent_top_chance": 0.33333333333333326
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9978344167426715,
+        "temp_entropy": 0.9961772666864949,
+        "agent_entropy": 0.8864997183858299,
+        "geo_rho_food": 0.0066911764705882325,
+        "geo_rho_agent": -0.509360294117647,
+        "temp_food_share": 0.04510243302180685,
+        "temp_food_uniform": 0.04418068944220886,
+        "geo_food_share": 0.11641589096573209,
+        "geo_food_uniform": 0.12480529595015577,
+        "credit_food_share": 0.045102358588672106,
+        "credit_food_uniform": 0.04418068944220886,
+        "agent_top_match": 0.28102189781021897,
+        "agent_top_chance": 0.3333333333333333
+      }
+    },
+    "4096": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9823895727838226,
+        "temp_entropy": 0.9951965678767591,
+        "agent_entropy": 0.9021752850864206,
+        "geo_rho_food": 0.6803872302689921,
+        "geo_rho_agent": 0.10920780372450489,
+        "temp_food_share": 0.10916642307692306,
+        "temp_food_uniform": 0.09917434223885684,
+        "geo_food_share": 0.16839805494505494,
+        "geo_food_uniform": 0.16929945054945056,
+        "credit_food_share": 0.11538341087886138,
+        "credit_food_uniform": 0.09917434223885684,
+        "agent_top_match": 0.33783783783783783,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.981692963161316,
+        "temp_entropy": 0.9964518250221712,
+        "agent_entropy": 0.8954502111533438,
+        "geo_rho_food": 0.6692171605484298,
+        "geo_rho_agent": 0.12382426654872475,
+        "temp_food_share": 0.049289978658536585,
+        "temp_food_uniform": 0.04807542636132608,
+        "geo_food_share": 0.12766034451219516,
+        "geo_food_uniform": 0.13376524390243902,
+        "credit_food_share": 0.049422062832802816,
+        "credit_food_uniform": 0.04807542636132608,
+        "agent_top_match": 0.27380952380952384,
+        "agent_top_chance": 0.33333333333333326
+      }
+    },
+    "42": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.981050664417806,
+        "temp_entropy": 0.9952594806697355,
+        "agent_entropy": 0.8908127792328935,
+        "geo_rho_food": 0.3996911764705882,
+        "geo_rho_agent": 0.44192647058823525,
+        "temp_food_share": 0.1188137320261438,
+        "temp_food_uniform": 0.10579860152438111,
+        "geo_food_share": 0.20536215032679742,
+        "geo_food_uniform": 0.17892156862745098,
+        "credit_food_share": 0.10810111249331411,
+        "credit_food_uniform": 0.10579860152438111,
+        "agent_top_match": 0.21052631578947367,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9802561013095644,
+        "temp_entropy": 0.9962657029866159,
+        "agent_entropy": 0.8902938192675605,
+        "geo_rho_food": 0.477875,
+        "geo_rho_agent": 0.37737499999999996,
+        "temp_food_share": 0.051055981424148605,
+        "temp_food_uniform": 0.05058949525114296,
+        "geo_food_share": 0.1447933560371517,
+        "geo_food_uniform": 0.12674148606811145,
+        "credit_food_share": 0.045888724077316125,
+        "credit_food_uniform": 0.05058949525114296,
+        "agent_top_match": 0.4074074074074074,
+        "agent_top_chance": 0.3333333333333333
+      }
+    },
+    "456": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9819193541820431,
+        "temp_entropy": 0.9953470903662293,
+        "agent_entropy": 0.8996897490071152,
+        "geo_rho_food": 0.3763235294117647,
+        "geo_rho_agent": 0.4171029411764706,
+        "temp_food_share": 0.10493512429378532,
+        "temp_food_uniform": 0.09782037777572788,
+        "geo_food_share": 0.1904242316384181,
+        "geo_food_uniform": 0.163135593220339,
+        "credit_food_share": 0.0928396103356811,
+        "credit_food_uniform": 0.09782037777572788,
+        "agent_top_match": 0.32894736842105265,
+        "agent_top_chance": 0.33333333333333337
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9816631859023355,
+        "temp_entropy": 0.9966733879540643,
+        "agent_entropy": 0.9022159661285452,
+        "geo_rho_food": 0.39711068306415764,
+        "geo_rho_agent": 0.34934805156319454,
+        "temp_food_share": 0.0478436095890411,
+        "temp_food_uniform": 0.04750007067142358,
+        "geo_food_share": 0.14906406164383562,
+        "geo_food_uniform": 0.13163527397260275,
+        "credit_food_share": 0.0430926082988497,
+        "credit_food_uniform": 0.04750007067142358,
+        "agent_top_match": 0.30454545454545456,
+        "agent_top_chance": 0.33333333333333337
+      }
+    },
+    "5555": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9977802922699164,
+        "temp_entropy": 0.995964750546012,
+        "agent_entropy": 0.9156402400470592,
+        "geo_rho_food": -0.06332352941176471,
+        "geo_rho_agent": -0.40820588235294125,
+        "temp_food_share": 0.11124179136690648,
+        "temp_food_uniform": 0.10212427562621948,
+        "geo_food_share": 0.15798359712230217,
+        "geo_food_uniform": 0.16951438848920863,
+        "credit_food_share": 0.11122874320808028,
+        "credit_food_uniform": 0.10212427562621948,
+        "agent_top_match": 0.36885245901639346,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.9977097371433865,
+        "temp_entropy": 0.9965527410605338,
+        "agent_entropy": 0.8885120834006841,
+        "geo_rho_food": 0.02473529411764706,
+        "geo_rho_agent": -0.4836764705882352,
+        "temp_food_share": 0.04612475241157556,
+        "temp_food_uniform": 0.04503690907410774,
+        "geo_food_share": 0.11784989389067524,
+        "geo_food_uniform": 0.12640675241157556,
+        "credit_food_share": 0.046124681445019126,
+        "credit_food_uniform": 0.04503690907410774,
+        "agent_top_match": 0.4048582995951417,
+        "agent_top_chance": 0.33333333333333337
+      }
+    },
+    "789": {
+      "early": {
+        "episodes": 200.0,
+        "geo_entropy": 0.9834056855870117,
+        "temp_entropy": 0.9954898987754547,
+        "agent_entropy": 0.9012773292243008,
+        "geo_rho_food": 0.7149881164587046,
+        "geo_rho_agent": 0.1777035056446821,
+        "temp_food_share": 0.10574076973684211,
+        "temp_food_uniform": 0.09692573321942935,
+        "geo_food_share": 0.17095555263157897,
+        "geo_food_uniform": 0.1689967105263158,
+        "credit_food_share": 0.11075019118004982,
+        "credit_food_uniform": 0.09692573321942935,
+        "agent_top_match": 0.3076923076923077,
+        "agent_top_chance": 0.3333333333333333
+      },
+      "late": {
+        "episodes": 400.0,
+        "geo_entropy": 0.980818716692191,
+        "temp_entropy": 0.9957269565132243,
+        "agent_entropy": 0.8877440347268027,
+        "geo_rho_food": 0.667750517292344,
+        "geo_rho_agent": 0.18439255099024535,
+        "temp_food_share": 0.056250257309941515,
+        "temp_food_uniform": 0.054267240707657226,
+        "geo_food_share": 0.14241130701754387,
+        "geo_food_uniform": 0.1429093567251462,
+        "credit_food_share": 0.053473506160556974,
+        "credit_food_uniform": 0.054267240707657226,
+        "agent_top_match": 0.4249084249084249,
+        "agent_top_chance": 0.3333333333333333
+      }
+    }
+  },
+  "reproduction": {
+    "1024": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "123": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "1337": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "2048": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "3141": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "4096": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "42": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "456": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "5555": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    },
+    "789": {
+      "episode_returns": "identical",
+      "food_collected": "identical",
+      "episode_lengths": "identical",
+      "eval": "identical"
+    }
+  }
+}

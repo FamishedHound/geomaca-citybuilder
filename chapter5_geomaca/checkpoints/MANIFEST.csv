@@ -1,0 +1,143 @@
+path,role,used_by,size_bytes,sha256
+cb_runs_v4/geomaca_seed42/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",3357867,7c9ff783c9170452d2e27378aa058c90955159dcc6b791195ea77f273ad55d6d
+cb_runs_v4/geomaca_seed42/config.json,run configuration,"Tables 5.2, 5.3; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed123/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",3357931,3eb3594498a0670446cc5f8ca2b03a4b3987a9b9e3fbf72f30a1b636430acb4b
+cb_runs_v4/geomaca_seed123/config.json,run configuration,"Tables 5.2, 5.3; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed456/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",3357931,38328f3b32935f3185bd6a1a8b8a9f2668b00751da528f3fec87d5fbef3de263
+cb_runs_v4/geomaca_seed456/config.json,run configuration,"Tables 5.2, 5.3; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed789/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3357931,e2fe582e16af637883cb75048b76f06251f0b01c36f9845619884299159c3afb
+cb_runs_v4/geomaca_seed789/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed1024/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3353643,6f4e77ad87c76536f610e15e912dfdbdfd704052b7b7aa068ca34c2e0e51a597
+cb_runs_v4/geomaca_seed1024/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed1337/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3357931,0bf47d9172586c5a73ace2e0847241b0480e1eca14f1ab1ce4c6aa58a8bfcdbd
+cb_runs_v4/geomaca_seed1337/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed2048/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3357227,862bc098ea699dfe337a210cb875d89a4bbd4c7c7614503fd31dcd15fd702400
+cb_runs_v4/geomaca_seed2048/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed3141/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3353643,11ca227329bbce25707950c3a4f079453deb2d22c29b780d852c01baae3da1a3
+cb_runs_v4/geomaca_seed3141/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed4096/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3357867,74415bbfcbd955084e486905e492ae651f589d09ef25ca7978c06bd77d49608e
+cb_runs_v4/geomaca_seed4096/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/geomaca_seed5555/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3, 5.4; Figure 5.3",3357931,a4dbc176cc431b9e48773a804e8429cc62d16a5f5089f8b5b79351bad83e946b
+cb_runs_v4/geomaca_seed5555/config.json,run configuration,"Tables 5.2, 5.3, 5.4; Figure 5.3",1286,e893dfa1a5edc97a70a2dca65e6a40e4b3ccba512cfd15d3bb32d441c9a05776
+cb_runs_v4/abl_uniform_seed789/checkpoints/best.pt,checkpoint,Table 5.4,2562099,407ce1d81d70c4c00ef1c968750d5b016c5533980c0905aab580382ecb72d2e3
+cb_runs_v4/abl_uniform_seed789/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed1024/checkpoints/best.pt,checkpoint,Table 5.4,2557811,49db50538bae7837d274bf4aa726810e5602c1cbb8e1cef74a8d8d5f579f8fd0
+cb_runs_v4/abl_uniform_seed1024/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed1337/checkpoints/best.pt,checkpoint,Table 5.4,2562099,e90977600f6b52be8d48a44dd370e2cdca290abb6bc1f512ba93cbd4d57bccc8
+cb_runs_v4/abl_uniform_seed1337/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed2048/checkpoints/best.pt,checkpoint,Table 5.4,2557811,180590e871429a18ff3a86271d79b08bf85893f22010e8efabfb4ad558a0a4eb
+cb_runs_v4/abl_uniform_seed2048/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed3141/checkpoints/best.pt,checkpoint,Table 5.4,2557811,9ce63571cc52c83cd6c2b14320413f566ed3a18f7eb98df973425b4171f4a607
+cb_runs_v4/abl_uniform_seed3141/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed4096/checkpoints/best.pt,checkpoint,Table 5.4,2562035,a4424eb908cc3bff00355971299e7d3a5af89df5305b97f0367836f01621fcc8
+cb_runs_v4/abl_uniform_seed4096/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_uniform_seed5555/checkpoints/best.pt,checkpoint,Table 5.4,2562035,257ea56a28ad92507e0fc15a0eac106affa44a298911fb077c92735355ee5f7d
+cb_runs_v4/abl_uniform_seed5555/config.json,run configuration,Table 5.4,1289,15f59f7bd16ece9beac843abfffaf71d03e28e31f764af10e4ded265add5f0f4
+cb_runs_v4/abl_temporal_seed789/checkpoints/best.pt,checkpoint,Table 5.4,2827355,7accdda4a96a61a8e993b18e5281704626146d3508ea0aef614e062ed5e923a8
+cb_runs_v4/abl_temporal_seed789/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed1024/checkpoints/best.pt,checkpoint,Table 5.4,2827355,39977c7406a10ade1d256e9936de261a73625b33b989dcd6764d84a3fb69d1c8
+cb_runs_v4/abl_temporal_seed1024/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed1337/checkpoints/best.pt,checkpoint,Table 5.4,2826331,b18ab17b576dade712a88edfb6e22abe08339a28ea251a313a8f6ab846e32952
+cb_runs_v4/abl_temporal_seed1337/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed2048/checkpoints/best.pt,checkpoint,Table 5.4,2823067,74ce5a9b038064f5809b6796d99fc7cc03564f9db0ae769b18a1f4c2c9fabdf2
+cb_runs_v4/abl_temporal_seed2048/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed3141/checkpoints/best.pt,checkpoint,Table 5.4,2827163,20ab4ae8002ab414376129dcd81481ed9b34b41ea7ee14643f4efaeb549c313c
+cb_runs_v4/abl_temporal_seed3141/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed4096/checkpoints/best.pt,checkpoint,Table 5.4,2827355,ebd6ca5f2fbc041f4196e3c6abea3c9458ef18e4c12815160889ce1c5523e5a8
+cb_runs_v4/abl_temporal_seed4096/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_seed5555/checkpoints/best.pt,checkpoint,Table 5.4,2827355,b4d933b3cf5373907e98c4fd303a22e678f3b2d3a580cdf989fbf9074ec812ad
+cb_runs_v4/abl_temporal_seed5555/config.json,run configuration,Table 5.4,1288,7ec2faae311282917913b7a18cba885f6bc8155a9f60b260e0259954677c9053
+cb_runs_v4/abl_temporal_agent_seed789/checkpoints/best.pt,checkpoint,Table 5.4,3092675,83a5545464f55925564a78bf15db4bbe0ddd2be7f5566ae67ec1cdaf4acfb57f
+cb_runs_v4/abl_temporal_agent_seed789/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed1024/checkpoints/best.pt,checkpoint,Table 5.4,3092611,22a121302a0126e25bef04ba3a044eb6210f5efb20554ee85d25d171557638d7
+cb_runs_v4/abl_temporal_agent_seed1024/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed1337/checkpoints/best.pt,checkpoint,Table 5.4,3092547,dff48d892e1de08de0fb36130fef1034cdaa5d96295d57697541693b9d010e45
+cb_runs_v4/abl_temporal_agent_seed1337/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed2048/checkpoints/best.pt,checkpoint,Table 5.4,3092611,eb4f0af62406373c7496ff57354db14f331ecb0a73fa0823a48f9d488411e28c
+cb_runs_v4/abl_temporal_agent_seed2048/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed3141/checkpoints/best.pt,checkpoint,Table 5.4,3088387,0d02dda0f0229a2076871cf8881bf0742f42c3988dd999506a429ae1d2f19b88
+cb_runs_v4/abl_temporal_agent_seed3141/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed4096/checkpoints/best.pt,checkpoint,Table 5.4,3092611,765b91c54ac6dfbef848e85e00be46654b70155d832b81b27ee2b5e51332cb3e
+cb_runs_v4/abl_temporal_agent_seed4096/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v4/abl_temporal_agent_seed5555/checkpoints/best.pt,checkpoint,Table 5.4,3092611,7dad3cebe01e3dc728d246b07e43d7e1f962ca72f17e38920a90f6b141f9c706
+cb_runs_v4/abl_temporal_agent_seed5555/config.json,run configuration,Table 5.4,1287,7cc7856114c4195cc05f524ebefc69c2a52493f437c6e1365e71f5f48a376f4d
+cb_runs_v3/qmix_seed42/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,de1d52624f566d37031321840f15b2154a2b16110c538eda9f28286c0a3b883d
+cb_runs_v3/qmix_seed123/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,0c8ee29fa4427f0fa05179f9566e7068e1fa698e9dd8a4a5b6888e02299a3bc9
+cb_runs_v3/qmix_seed456/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,47a13be802d945e4b10fac9023c6be484bf3b8bb73fe7440d794c393ed925830
+cb_runs_v3/qmix_seed789/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,b14ad05463215182a0f89a5159c3bb95f32ed39154f57cf3c35f6361814b6f2e
+cb_runs_v3/qmix_seed1024/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,d7504ce713764def99744130e61549c5cf912e88c9466a99b83686e6ec95e7be
+cb_runs_v3/qmix_seed1337/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,56f882bfdf1f3092a564a1c905dd97f14a4fa84c6c38b0cce11f2f60291acc8d
+cb_runs_v3/qmix_seed2048/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,45acf4c17b6dee6917e5c926c64f51ff24a652612d5e1bbc7081612b64b8d370
+cb_runs_v3/qmix_seed3141/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,20295cf92b95210e7060c5a020eee00233b236996f8786d5528e68043fb260d0
+cb_runs_v3/qmix_seed4096/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,eb20bec5388f24a77cebf0bb8f004e2b4c71cb7d912592d42554db24966dbc11
+cb_runs_v3/qmix_seed5555/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",1972581,ad136e144d9b9ccc453c3585ad053354ccaa18e85ee2e8db9cba1e498426d689
+cb_runs_v3/coma_seed42/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,da14ca0c5818d6f7e70d8e8d0d47da857f12d80123946141c957df96e62d07a6
+cb_runs_v3/coma_seed123/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,9f50549915cb2d8f2f8730cfd5c2d486a934088f4411e739fbe9f4fee1338ba3
+cb_runs_v3/coma_seed456/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,9105c33d7cc3c094c04f82960546ad4fbfd7dcc86589e33884b7bad27bd9151f
+cb_runs_v3/coma_seed789/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,b110fe986b22102937b1dba11a8ffc6210df0028f24a71b91cbd7e2450845c5a
+cb_runs_v3/coma_seed1024/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,8cc20d5d484c09561816fbf48427adad242b3acdc9d62adf85b0192ecbc4e128
+cb_runs_v3/coma_seed1337/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,4a2b6c15de2ff26122aea3865a010655c458205066ba0de8edda399d974572c0
+cb_runs_v3/coma_seed2048/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,0e546fdb81347b1733548839fcfb45126d3b3e6cda840823ee0869958995bdf8
+cb_runs_v3/coma_seed3141/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,40fd5570376f0cfbebcf80e6b9c35f6f5b11a2d1d1da5710ad0bef267de22f85
+cb_runs_v3/coma_seed4096/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,fb708c3aa5c273637c27bc1353cad448332960cdcb7d3833925ecc71e732f940
+cb_runs_v3/coma_seed5555/checkpoints/best.pt,checkpoint,"Tables 5.2, 5.3; Figure 5.3",2030229,2d2d35e1d80065dcc226f47ae357622c62025519e7feb718e7fbb0bcc300f81d
+lbf/geomaca_fixed_seed42.json,LBF run record,"Tables 5.6, 5.7",2918648,5f52792f4fce18584be9060974a93d01ce07dffa3ca0e14f4a4fe2e56ed6c173
+lbf/geomaca_fixed_seed123.json,LBF run record,"Tables 5.6, 5.7",2924051,44478bd4a688d503af29c475a531189b24f4efc249a8ae2626ca36b715a3384a
+lbf/geomaca_fixed_seed456.json,LBF run record,"Tables 5.6, 5.7",2919971,268bf5191d6480f178ac50b18856b1bc7039f7d5705a9c16ccb45525cd68e664
+lbf/geomaca_fixed_seed789.json,LBF run record,"Tables 5.6, 5.7",2917720,276c6ef8dff549e0c9e71b6c2ec281b1d6d9f49e6d3d0581d24f8792aa48890e
+lbf/geomaca_fixed_seed1024.json,LBF run record,"Tables 5.6, 5.7",2921239,296061517baeeb2b4c25c799c86607a5233acfb630b176663c39fd1697b8e899
+lbf/geomaca_fixed_seed1337.json,LBF run record,"Tables 5.6, 5.7",2918727,5295251ee3420c0c7f4efcb9667adcb244c9db7c0b76c6f5bf12312d6d461210
+lbf/geomaca_fixed_seed2048.json,LBF run record,"Tables 5.6, 5.7",2920052,c1ae749dfc29d86203fa9fb4b2657db31add193d192c5c0fd5e1a725850792b4
+lbf/geomaca_fixed_seed3141.json,LBF run record,"Tables 5.6, 5.7",2920108,2a81ae7c78c1b8ddcd43d700c8b47256a13561ec33efb0ff723120e5c3e322cd
+lbf/geomaca_fixed_seed4096.json,LBF run record,"Tables 5.6, 5.7",2920192,3dc4e8231b04b4aba6041497cc32c5ae1d0e4e4f186ec2daed80cb7bc2221107
+lbf/geomaca_fixed_seed5555.json,LBF run record,"Tables 5.6, 5.7",2919878,4a8df85be5eaa077ce242493b5d189cba5399a969dfe3a21c4045fc6fdf87d3f
+lbf/coma_seed42.json,LBF run record,"Tables 5.6, 5.7",2930924,ea32367e33e97b0fdd881669497e7c486f1f4e9e01556a31ab48864cbec4c616
+lbf/coma_seed123.json,LBF run record,"Tables 5.6, 5.7",2933844,358f7a11ccc27e70819d8e9995d81bc0c06177567706f9da740cef212b5dc489
+lbf/coma_seed456.json,LBF run record,"Tables 5.6, 5.7",2929527,3a19bcfe5284f0b246586a3f12d4dd64ff1689fd3a3e080942370df4ec11342e
+lbf/coma_seed789.json,LBF run record,"Tables 5.6, 5.7",2930551,79064ce908efd6f9d39df38294976ad3e6b8ed3f5e7cf287798e907f0deaed1c
+lbf/coma_seed1024.json,LBF run record,"Tables 5.6, 5.7",2929348,d82f0db357fd09bf54378a1782c14e18c9eab45400dcf78c4cbdd3b0260a3232
+lbf/coma_seed1337.json,LBF run record,"Tables 5.6, 5.7",2930695,82a255899de24e649887af24649dd1a9696363c7188e17a94352416033ae7bde
+lbf/coma_seed2048.json,LBF run record,"Tables 5.6, 5.7",2929387,716099ad3332eec0bda7a375219ad5f5b1a423b3b2278dff827c50bfa9d909c4
+lbf/coma_seed3141.json,LBF run record,"Tables 5.6, 5.7",2926520,8cfa43acbcf9f35fe18328caaeff3514f2a05ccd7bb6202ed286a963add4853d
+lbf/coma_seed4096.json,LBF run record,"Tables 5.6, 5.7",2925749,690e194f16165aec34f47a5371a9ac78a3a6ec133c4d4109b4f2a2533e15410f
+lbf/coma_seed5555.json,LBF run record,"Tables 5.6, 5.7",2927595,63495f1ee52e2d98b2f1fabdba030090dbd154597b0d4924d8783584c0af6a8e
+lbf/qmix_seed42.json,LBF run record,"Tables 5.6, 5.7",2960848,e14d9cbae6b51cff3377c719bc43bb2a50ba0a473a7342913537de5b096ec622
+lbf/qmix_seed123.json,LBF run record,"Tables 5.6, 5.7",2960257,44c5ed09cf533f6d62a09b4dfeca3f3d535223c62d0d579710eb22438ba660f4
+lbf/qmix_seed456.json,LBF run record,"Tables 5.6, 5.7",2960538,098712d9b1232531eb27e2313531353a85e5c7122fb0ccf5c568f149f88f9c0b
+lbf/qmix_seed789.json,LBF run record,"Tables 5.6, 5.7",2960818,f13392b0511122559f0716cd8334730e64739aabd1734687f3a24a73bf93b36e
+lbf/qmix_seed1024.json,LBF run record,"Tables 5.6, 5.7",2960810,cc7ca9a8a38ff5d43d5a37bda01f4bb1ba06d01af09441562e3f1da9c8968a2d
+lbf/qmix_seed1337.json,LBF run record,"Tables 5.6, 5.7",2962850,e046cc3ccaf1cf939f14c7d2817ef811ddb9e551d6dcc2d3bae6094106c1f47a
+lbf/qmix_seed2048.json,LBF run record,"Tables 5.6, 5.7",2960015,750bf962d111173440ca457f0817d7ddcc3fa36057e03459a123d7a747cf9e95
+lbf/qmix_seed3141.json,LBF run record,"Tables 5.6, 5.7",2960324,2c6dd25556819634fcd8346d7b3173553a403c15ca65e2582ad272198b095ce6
+lbf/qmix_seed4096.json,LBF run record,"Tables 5.6, 5.7",2961604,d0444f5013f56b9fa9778732b17981048e1462f6c19ef384c5e42f6cbef5eb3d
+lbf/qmix_seed5555.json,LBF run record,"Tables 5.6, 5.7",2959935,a1704e6bd256f9999cd7ddda7baa62138d604991afc0ca2fb9e982857f5d3291
+lbf/vdn_seed42.json,LBF run record,"Tables 5.6, 5.7",2959272,1bef96c83422ba5df72721b43614facaddefd072ef77300a28b2bfeb1b8db7bd
+lbf/vdn_seed123.json,LBF run record,"Tables 5.6, 5.7",2958631,5738cbe8e867136853abe2e4c49fd8d470fc9cdf07c5162d2817deefc26e9f0f
+lbf/vdn_seed456.json,LBF run record,"Tables 5.6, 5.7",2958569,612443789821e7712080ef8ed1c288b1ea4849839dc3e6529bcdaf84bbc9b54f
+lbf/vdn_seed789.json,LBF run record,"Tables 5.6, 5.7",2958994,0565153d1c529cf04d77bbda360e81b5ad43279dc7cab93cf151583b98988356
+lbf/vdn_seed1024.json,LBF run record,"Tables 5.6, 5.7",2959126,c743c1c213de050f7be63591c88b8db5b180b7b64985c6fe1b84aab1ada7140d
+lbf/vdn_seed1337.json,LBF run record,"Tables 5.6, 5.7",2959319,b81ca937baa68a9ad0c12af6dbd897f71a26b964cc6063596b6cdad37da852c1
+lbf/vdn_seed2048.json,LBF run record,"Tables 5.6, 5.7",2958378,51c113fc2d9463537087d197c6ee4c5783ca86a35d16aac8fa03f4ecb718625b
+lbf/vdn_seed3141.json,LBF run record,"Tables 5.6, 5.7",2959334,083383aeef91c9a2003051b9da35bde48e60567c1ee0cbf8fb171e53b8c52626
+lbf/vdn_seed4096.json,LBF run record,"Tables 5.6, 5.7",2959368,ff2d28723b8535632de7109a5b6cf5ca8ca228eddaad3f55a73bc894c2fba938
+lbf/vdn_seed5555.json,LBF run record,"Tables 5.6, 5.7",2959555,cf518fac55657841a703f7178d7f0be49e0b3bace64f24c3c46bc8c7ea15d19e
+lbf/independent_seed42.json,LBF run record,"Tables 5.6, 5.7",2917179,7ecdfcf6f5065fa029c8ede8b5755e49ed9c78cea75ed40176df96c88e569120
+lbf/independent_seed123.json,LBF run record,"Tables 5.6, 5.7",2917850,f3cbd03f30fd9f82d85dabfbbfecb7ceadb37a00eb6a0a99bff48663c242fef4
+lbf/independent_seed456.json,LBF run record,"Tables 5.6, 5.7",2916978,be52a383166b5ed7b0259ce961ed244b67d1f11e728bf21b4303a83c2e17e2d4
+lbf/independent_seed789.json,LBF run record,"Tables 5.6, 5.7",2927515,d121d4931101cffc57aa803b5b6ee4b033f755fcd6cf610cc7a99868f47f8567
+lbf/independent_seed1024.json,LBF run record,"Tables 5.6, 5.7",2921792,ba177a88c7f5bcde1f329293db6404ea3475454dd8391dca5c479f69d3223d76
+lbf/independent_seed1337.json,LBF run record,"Tables 5.6, 5.7",2922089,59343304ada72162c7fe6029b8f15489a222c8caf6087e810330d5c591c09d29
+lbf/independent_seed2048.json,LBF run record,"Tables 5.6, 5.7",2917930,e03539097f56f7fe12288fc661a1c2a744b73f42e57e2ef6b0d449ccd887bdd5
+lbf/independent_seed3141.json,LBF run record,"Tables 5.6, 5.7",2918624,05b76c339e8c3839c89f19b0c00cd6d77e7f001d16e9604325c23853786722e0
+lbf/independent_seed4096.json,LBF run record,"Tables 5.6, 5.7",2920298,c9ed8bb850f47316c55c62ec89e66a3a2ff1381b0a4dcd463df87b7b12926a8f
+lbf/independent_seed5555.json,LBF run record,"Tables 5.6, 5.7",2923439,adc28a558f08750b92cf4e492337046b7a57861e0d1a11a86ac3e9630c5148b3
+lbf/uniform_seed42.json,LBF run record,"Tables 5.6, 5.7",2923676,57e387f0cf1f483174b10ed4f7cb17f1997e687901852c4511615f0cb9535376
+lbf/uniform_seed123.json,LBF run record,"Tables 5.6, 5.7",2926007,53fbe11e690f439afb9eddce6fea2c6dbb12239cfffa784a60b2590ad650ae49
+lbf/uniform_seed456.json,LBF run record,"Tables 5.6, 5.7",2924079,a261845d87281428bd28d00c821f8e4218ca88a21bf6796203ba3835d288d12b
+lbf/uniform_seed789.json,LBF run record,"Tables 5.6, 5.7",2927269,284faec3301cf1e1f3bcc7e48848cdc2105a79b50b6367bb6aa417a454e30512
+lbf/uniform_seed1024.json,LBF run record,"Tables 5.6, 5.7",2925201,38f78d2451b4d90bb1f7838567b3c594d11d06715108d052a4892377ba02b575
+lbf/uniform_seed1337.json,LBF run record,"Tables 5.6, 5.7",2928901,d9aa1843f6a16ebbb5e0e453cf7092815246eb54f2c3a60ca69213b063b66440
+lbf/uniform_seed2048.json,LBF run record,"Tables 5.6, 5.7",2930252,aff321f3f092ce8b8a5941cd03aabdb9dd43b29bf017410564ffac65081ed712
+lbf/uniform_seed3141.json,LBF run record,"Tables 5.6, 5.7",2933337,15d7f72e02d5687269d7c07cd9743ffa17ca25a0f3441d906d76d90f86c6b10a
+lbf/uniform_seed4096.json,LBF run record,"Tables 5.6, 5.7",2927561,3ac4a1d3f41760c39c9313b2dd5e8389eb822a94fd533227bbb568d68a696596
+lbf/uniform_seed5555.json,LBF run record,"Tables 5.6, 5.7",2932831,7a0684d5ebc7d578bc506e0cfa9171a5ec5db5a8f636b0385b60d9fe82048a89

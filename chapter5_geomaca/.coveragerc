@@ -1,0 +1,9 @@
+[run]
+source = chapter5_geomaca
+omit =
+    */tests/*
+    */training/launch.py
+
+[report]
+show_missing = True
+skip_covered = False

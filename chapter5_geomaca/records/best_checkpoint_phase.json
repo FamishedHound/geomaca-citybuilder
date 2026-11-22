@@ -1,0 +1,45 @@
+{
+ "description": "Whether the evaluated checkpoint (checkpoints/best.pt) of each run was saved during the 500-episode warm-up, read from the training metrics stored in best.pt.",
+ "warmup_episodes": 500,
+ "phase": {
+  "abl_uniform": {
+   "789": "GeoMACA",
+   "1024": "warm-up",
+   "1337": "GeoMACA",
+   "2048": "warm-up",
+   "3141": "warm-up",
+   "4096": "GeoMACA",
+   "5555": "GeoMACA"
+  },
+  "abl_temporal": {
+   "789": "GeoMACA",
+   "1024": "GeoMACA",
+   "1337": "GeoMACA",
+   "2048": "warm-up",
+   "3141": "GeoMACA",
+   "4096": "GeoMACA",
+   "5555": "GeoMACA"
+  },
+  "abl_temporal_agent": {
+   "789": "GeoMACA",
+   "1024": "GeoMACA",
+   "1337": "GeoMACA",
+   "2048": "GeoMACA",
+   "3141": "warm-up",
+   "4096": "GeoMACA",
+   "5555": "GeoMACA"
+  },
+  "geomaca": {
+   "42": "GeoMACA",
+   "123": "GeoMACA",
+   "456": "GeoMACA",
+   "789": "GeoMACA",
+   "1024": "warm-up",
+   "1337": "GeoMACA",
+   "2048": "GeoMACA",
+   "3141": "warm-up",
+   "4096": "GeoMACA",
+   "5555": "GeoMACA"
+  }
+ }
+}

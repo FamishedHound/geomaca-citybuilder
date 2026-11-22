@@ -1,0 +1,14 @@
+# Runtime dependencies of the chapter5_geomaca package.
+# torch: a CUDA build is used for training the CityBuilder agents when a GPU
+# is available; the evaluation and the Level-Based Foraging runs use the CPU.
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+# Level-Based Foraging
+gymnasium>=1.0
+lbforaging==2.0.0
+
+# Tests
+pytest>=8.0
+pytest-cov>=5.0
