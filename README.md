@@ -60,9 +60,11 @@ One result at a time:
 | Table 5.4 | `python -m chapter5_geomaca.reproduce table5.4 --checkpoints chapter5_checkpoints --workers 4` |
 | Table 5.5 | `python -m chapter5_geomaca.reproduce table5.5 --workers 4` |
 | Tables 5.6 and 5.7 | `python -m chapter5_geomaca.reproduce table5.6 --lbf-results chapter5_checkpoints/lbf` (and `table5.7`) |
-| Table 5.8 | `python -m chapter5_geomaca.lbf.attention_analysis --runs runs/lbf_attention --reference chapter5_checkpoints/lbf --out runs/lbf_attention/analysis` |
+| Table 5.8 | `python -m chapter5_geomaca.lbf.attention_analysis --runs lbf_attention --reference chapter5_checkpoints/lbf --out lbf_attention/analysis` |
 
 Tables 5.2 to 5.4 and Figure 5.3 evaluate the checkpoints (2,800 episodes in all, a few seconds each) and share one evaluation record, so the first command does most of the work. The evaluation does not seed the background terrain, so two evaluations of the same checkpoints differ slightly; `--seed-all` makes one repeatable.
+
+Table 5.8 is not written by `reproduce all`. It is computed from the ten Level-Based Foraging runs in which the attention weights were recorded. Their records are attached to the release as `chapter5_lbf_attention.zip` (about 6 MB, 150 MB unpacked); `python -m zipfile -e chapter5_lbf_attention.zip .` unpacks them into `lbf_attention/`, and the command in the table then gives the printed table. Its summary is also in `chapter5_geomaca/records/lbf_attention_summary.json`. Figure 5.2, the end-of-episode state of one run, has no command.
 
 **Training from scratch.** On one RTX 5090 a GeoMACA run took 42 to 77 minutes with ten runs at a time.
 
@@ -81,7 +83,7 @@ python -m chapter5_geomaca.lbf.train --chapter5 --method geomaca_fixed \
     --episodes 50000 --eval-episodes 100 --log-attention-every 25 --results-dir runs/lbf_attention
 ```
 
-A retrained run need not be bit-identical to the released one, because GPU arithmetic differs between GPU models and drivers.
+The released checkpoints were trained with an earlier revision of the trainer. The launcher runs the current trainer with the settings of the chapter (`--chapter5`), so a retrained run will not be bit-identical to the released checkpoints.
 
 Tests: `python -m pytest chapter5_geomaca/tests`
 
